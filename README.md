@@ -47,3 +47,6 @@ celery flower -A tasks --broker=redis://localhost:6379//
 * https://stackoverflow.com/questions/42948547/which-pool-class-should-i-use-prefork-eventlet-or-gevent-in-celery
 * https://www.distributedpython.com/2018/10/26/celery-execution-pool/
 * https://pawelzny.com/python/celery/2017/08/14/celery-4-tasks-best-practices/
+* https://denibertovic.com/posts/celery-best-practices/
+* https://news.ycombinator.com/item?id=7909201
+* http://docs.celeryproject.org/en/latest/userguide/canvas.html#chains
