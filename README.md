@@ -50,3 +50,4 @@ celery flower -A tasks --broker=redis://localhost:6379//
 * https://denibertovic.com/posts/celery-best-practices/
 * https://news.ycombinator.com/item?id=7909201
 * http://docs.celeryproject.org/en/latest/userguide/canvas.html#chains
+* https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
