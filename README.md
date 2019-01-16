@@ -51,3 +51,5 @@ celery flower -A tasks --broker=redis://localhost:6379//
 * https://news.ycombinator.com/item?id=7909201
 * http://docs.celeryproject.org/en/latest/userguide/canvas.html#chains
 * https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
+* https://www.distributedpython.com/2018/09/04/error-handling-retry/
+* http://docs.celeryproject.org/en/latest/userguide/tasks.html#custom-task-classes
